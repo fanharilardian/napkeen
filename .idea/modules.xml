@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SampelProject.iml" filepath="$PROJECT_DIR$/SampelProject.iml" />
+      <module fileurl="file://C:\Users\dwima\AndroidStudioProjects\napkeen\SampelProject.iml" filepath="C:\Users\dwima\AndroidStudioProjects\napkeen\SampelProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\dwima\AndroidStudioProjects\napkeen\app\app.iml" filepath="C:\Users\dwima\AndroidStudioProjects\napkeen\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/napkeen.iml" filepath="$PROJECT_DIR$/.idea/napkeen.iml" />
     </modules>
   </component>
 </project>
